@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - Tiles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player(OfficeStaff)
+  - Enemy
+  - Tiles
+  - WallTiles
+  - Coin
+  - 
+  - Player(Bodybuilder)
+  - Player(Pet-sister)
+  - Player(Robot)
+  - Player(Athlete)
+  - Pet
+  - AutomatronicAtkZone
+  - AtomatronicHitbox
+  - Bubblegumtile
+  - Brokenglasstile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 88312269
+    locked: 0
+  - name: WallTiles
+    uniqueID: 3763876959
+    locked: 0
+  - name: UI
+    uniqueID: 494332653
+    locked: 0
